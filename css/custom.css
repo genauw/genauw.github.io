@@ -4,6 +4,12 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 
+ /*my custom css */
+ .semi-transparent{
+	background: rgba(255,255,255, 0.6);
+ }
+
+
 /* Global Styles */
 
 html,
@@ -14,6 +20,11 @@ body {
 
 body {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+	background: url(http://www.summerschool.ed.ac.uk/sites/default/files/Calton-Hill-16-9.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
 }
 
 .text-vertical-center {
