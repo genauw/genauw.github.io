@@ -1,4 +1,3 @@
-Sandbox for all of me projects
+My github pages site
 
-TODO
-refactor Navbar for bootstrap 4.0.0
+FUnctioning as a sandbox for anything I am working on that I might want to share.
